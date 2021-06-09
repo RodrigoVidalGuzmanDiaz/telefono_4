@@ -6,9 +6,11 @@ section{
   
     margin: auto;
     
+    font-size: 10px;    
+    
 }
 .todo{
-    margin-top: 85px;
+    margin-top: 8.5em;
     
     display: flex;
     flex-wrap: wrap;
@@ -17,8 +19,8 @@ section{
 .todo div{
     margin: 30px; 
     border-radius: 55px;
-    width: 310px;
-    height: 300px;
+    width: 31em;
+    height: 30em;
     
 }
 .cuadro{
@@ -38,8 +40,10 @@ section{
     justify-content: space-around;
 }
 .div_circulo{
-    width: 130px;
-    height: 130px;
+    font-size: 10px;
+    
+    width: 13em;
+    height: 13em;
     margin-top: 39px;
     border-radius: 50%;
     background: #001935;
